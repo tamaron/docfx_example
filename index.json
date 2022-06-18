@@ -7,7 +7,7 @@
   "api/SampleNamespace.TypeA.SampleScriptA.html": {
     "href": "api/SampleNamespace.TypeA.SampleScriptA.html",
     "title": "Class SampleScriptA | Example Unity documentation",
-    "keywords": "Class SampleScriptA Inheritance Object SampleScriptA Namespace : SampleNamespace.TypeA Assembly : cs.temp.dll.dll Syntax public class SampleScriptA"
+    "keywords": "Class SampleScriptA Inheritance Object SampleScriptA Namespace : SampleNamespace.TypeA Assembly : cs.temp.dll.dll Syntax public class SampleScriptA Methods MehtodA(Int32) Declaration public void MehtodA(int a) Parameters Type Name Description Int32 a"
   },
   "api/SampleNamespace.TypeB.html": {
     "href": "api/SampleNamespace.TypeB.html",
@@ -17,7 +17,7 @@
   "api/SampleNamespace.TypeB.SampleScriptB.html": {
     "href": "api/SampleNamespace.TypeB.SampleScriptB.html",
     "title": "Class SampleScriptB | Example Unity documentation",
-    "keywords": "Class SampleScriptB Inheritance Object SampleScriptB Namespace : SampleNamespace.TypeB Assembly : cs.temp.dll.dll Syntax public class SampleScriptB"
+    "keywords": "Class SampleScriptB Inheritance Object SampleScriptB Namespace : SampleNamespace.TypeB Assembly : cs.temp.dll.dll Syntax public class SampleScriptB Methods MehtodB(Int32) Declaration public string MehtodB(int a) Parameters Type Name Description Int32 a Returns Type Description String"
   },
   "index.html": {
     "href": "index.html",

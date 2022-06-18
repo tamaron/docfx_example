@@ -13,6 +13,19 @@ references:
   commentId: T:SampleNamespace.TypeA.SampleScriptA
   fullName: SampleNamespace.TypeA.SampleScriptA
   nameWithType: SampleScriptA
+- uid: SampleNamespace.TypeA.SampleScriptA.MehtodA(System.Int32)
+  name: MehtodA(Int32)
+  href: api/SampleNamespace.TypeA.SampleScriptA.html#SampleNamespace_TypeA_SampleScriptA_MehtodA_System_Int32_
+  commentId: M:SampleNamespace.TypeA.SampleScriptA.MehtodA(System.Int32)
+  fullName: SampleNamespace.TypeA.SampleScriptA.MehtodA(System.Int32)
+  nameWithType: SampleScriptA.MehtodA(Int32)
+- uid: SampleNamespace.TypeA.SampleScriptA.MehtodA*
+  name: MehtodA
+  href: api/SampleNamespace.TypeA.SampleScriptA.html#SampleNamespace_TypeA_SampleScriptA_MehtodA_
+  commentId: Overload:SampleNamespace.TypeA.SampleScriptA.MehtodA
+  isSpec: "True"
+  fullName: SampleNamespace.TypeA.SampleScriptA.MehtodA
+  nameWithType: SampleScriptA.MehtodA
 - uid: SampleNamespace.TypeB
   name: SampleNamespace.TypeB
   href: api/SampleNamespace.TypeB.html
@@ -25,3 +38,16 @@ references:
   commentId: T:SampleNamespace.TypeB.SampleScriptB
   fullName: SampleNamespace.TypeB.SampleScriptB
   nameWithType: SampleScriptB
+- uid: SampleNamespace.TypeB.SampleScriptB.MehtodB(System.Int32)
+  name: MehtodB(Int32)
+  href: api/SampleNamespace.TypeB.SampleScriptB.html#SampleNamespace_TypeB_SampleScriptB_MehtodB_System_Int32_
+  commentId: M:SampleNamespace.TypeB.SampleScriptB.MehtodB(System.Int32)
+  fullName: SampleNamespace.TypeB.SampleScriptB.MehtodB(System.Int32)
+  nameWithType: SampleScriptB.MehtodB(Int32)
+- uid: SampleNamespace.TypeB.SampleScriptB.MehtodB*
+  name: MehtodB
+  href: api/SampleNamespace.TypeB.SampleScriptB.html#SampleNamespace_TypeB_SampleScriptB_MehtodB_
+  commentId: Overload:SampleNamespace.TypeB.SampleScriptB.MehtodB
+  isSpec: "True"
+  fullName: SampleNamespace.TypeB.SampleScriptB.MehtodB
+  nameWithType: SampleScriptB.MehtodB

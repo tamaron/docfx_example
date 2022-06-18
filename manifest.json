@@ -28,7 +28,7 @@
       "output": {
         ".html": {
           "relative_path": "api/SampleNamespace.TypeA.SampleScriptA.html",
-          "hash": "jiw0Y8MPAZKRmkWoyPN/6XJLr+7VmY77MWv2DN+yF5s="
+          "hash": "WLxhpVqHDi5T1fXg35wF/bZu5vxpdrJP2d4sRuUoOI0="
         }
       },
       "is_incremental": false,
@@ -52,7 +52,7 @@
       "output": {
         ".html": {
           "relative_path": "api/SampleNamespace.TypeB.SampleScriptB.html",
-          "hash": "5lbbV4dANrBzU+XZmEzcqsN7EwFThsWzhffISQrCF8Q="
+          "hash": "G14c0QIy0OmGY7rVtc+fT1uNFSD/JoPLk2pO7BObYiw="
         }
       },
       "is_incremental": false,
