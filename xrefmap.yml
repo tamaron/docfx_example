@@ -1,3 +1,27 @@
 ### YamlMime:XRefMap
 sorted: true
-references: []
+references:
+- uid: SampleNamespace.TypeA
+  name: SampleNamespace.TypeA
+  href: api/SampleNamespace.TypeA.html
+  commentId: N:SampleNamespace.TypeA
+  fullName: SampleNamespace.TypeA
+  nameWithType: SampleNamespace.TypeA
+- uid: SampleNamespace.TypeA.SampleScriptA
+  name: SampleScriptA
+  href: api/SampleNamespace.TypeA.SampleScriptA.html
+  commentId: T:SampleNamespace.TypeA.SampleScriptA
+  fullName: SampleNamespace.TypeA.SampleScriptA
+  nameWithType: SampleScriptA
+- uid: SampleNamespace.TypeB
+  name: SampleNamespace.TypeB
+  href: api/SampleNamespace.TypeB.html
+  commentId: N:SampleNamespace.TypeB
+  fullName: SampleNamespace.TypeB
+  nameWithType: SampleNamespace.TypeB
+- uid: SampleNamespace.TypeB.SampleScriptB
+  name: SampleScriptB
+  href: api/SampleNamespace.TypeB.SampleScriptB.html
+  commentId: T:SampleNamespace.TypeB.SampleScriptB
+  fullName: SampleNamespace.TypeB.SampleScriptB
+  nameWithType: SampleScriptB

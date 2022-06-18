@@ -1,4 +1,24 @@
 {
+  "api/SampleNamespace.TypeA.html": {
+    "href": "api/SampleNamespace.TypeA.html",
+    "title": "Namespace SampleNamespace.TypeA | Example Unity documentation",
+    "keywords": "Namespace SampleNamespace.TypeA Classes SampleScriptA"
+  },
+  "api/SampleNamespace.TypeA.SampleScriptA.html": {
+    "href": "api/SampleNamespace.TypeA.SampleScriptA.html",
+    "title": "Class SampleScriptA | Example Unity documentation",
+    "keywords": "Class SampleScriptA Inheritance Object SampleScriptA Namespace : SampleNamespace.TypeA Assembly : cs.temp.dll.dll Syntax public class SampleScriptA"
+  },
+  "api/SampleNamespace.TypeB.html": {
+    "href": "api/SampleNamespace.TypeB.html",
+    "title": "Namespace SampleNamespace.TypeB | Example Unity documentation",
+    "keywords": "Namespace SampleNamespace.TypeB Classes SampleScriptB"
+  },
+  "api/SampleNamespace.TypeB.SampleScriptB.html": {
+    "href": "api/SampleNamespace.TypeB.SampleScriptB.html",
+    "title": "Class SampleScriptB | Example Unity documentation",
+    "keywords": "Class SampleScriptB Inheritance Object SampleScriptB Namespace : SampleNamespace.TypeB Assembly : cs.temp.dll.dll Syntax public class SampleScriptB"
+  },
   "index.html": {
     "href": "index.html",
     "title": "docfx_example | Example Unity documentation",

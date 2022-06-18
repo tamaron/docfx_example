@@ -2,6 +2,7 @@
   "sitemap": {
     "fileOptions": {
       "api/*": {
+        "baseUrl": "https://tamaron.github.io/docfx_example/",
         "changefreq": "daily"
       }
     },
@@ -20,6 +21,66 @@
         }
       },
       "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SampleNamespace.TypeA.SampleScriptA.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SampleNamespace.TypeA.SampleScriptA.html",
+          "hash": "jiw0Y8MPAZKRmkWoyPN/6XJLr+7VmY77MWv2DN+yF5s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SampleNamespace.TypeA.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SampleNamespace.TypeA.html",
+          "hash": "Vqe32A+bt+VdpkeSOILQJRYfQQxhDcqlXH7kURNx1u4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SampleNamespace.TypeB.SampleScriptB.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SampleNamespace.TypeB.SampleScriptB.html",
+          "hash": "5lbbV4dANrBzU+XZmEzcqsN7EwFThsWzhffISQrCF8Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SampleNamespace.TypeB.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SampleNamespace.TypeB.html",
+          "hash": "xluSJOdNUFp72V0zYzJ6/8OiABzkCXxjkbEP0uEBs+M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "7K3Ju7SOYKjyOhH20fdi925mG7Ej2X64P8+/2kesstE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
     },
     {
       "type": "Conceptual",
@@ -97,7 +158,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "g0KsbH+o6pUO8xMUdt1C1uTTcD6e7SeS8Eb3O6fOvEg="
+          "hash": "Tx2xkOF3VYiCBHIxdzn5zSjioYgq/ZESL4pG9+41eSI="
         }
       },
       "is_incremental": false,
@@ -119,6 +180,12 @@
           "can_incremental": false,
           "incrementalPhase": "build",
           "total_file_count": 3,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 4,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
