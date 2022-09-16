@@ -59,8 +59,8 @@ sysinfo.txt
 crashlytics-build.properties
 
 # Documentation
-Documentation/api/
-Documentation/index.*
-_site/
+# Documentation/api/
+# Documentation/index.*
+# _site/
 Assets/**/obj*
 
