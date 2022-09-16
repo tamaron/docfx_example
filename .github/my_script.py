@@ -17,7 +17,7 @@ os.getcwd()
 
 files = glob.glob("./*")
 for fileName in files:
-    with open(fileName ,"r",encoding="utf-8") as file:
+    with open(fileName ,"r",encoding="utf_8_sig") as file:
         lines=file.read()
 
     if 'SampleNamespace.TypeA' in lines:
@@ -28,6 +28,6 @@ for fileName in files:
     
 
     print(lines)
-    with open(fileName ,"w",encoding="utf-8") as file:
+    with open(fileName ,"w",encoding="utf_8_sig") as file:
         file.write(lines)
     
