@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tamaron.github.io/docfx_example/api/SampleNamespace.TypeA.SampleScriptA.html</loc>
-    <lastmod>2022-06-18T08:45:53+00:00</lastmod>
+    <lastmod>2022-09-16T02:52:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://tamaron.github.io/docfx_example/api/SampleNamespace.TypeA.html</loc>
-    <lastmod>2022-06-18T08:45:53+00:00</lastmod>
+    <lastmod>2022-09-16T02:52:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://tamaron.github.io/docfx_example/api/SampleNamespace.TypeB.SampleScriptB.html</loc>
-    <lastmod>2022-06-18T08:45:53+00:00</lastmod>
+    <lastmod>2022-09-16T02:52:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://tamaron.github.io/docfx_example/api/SampleNamespace.TypeB.html</loc>
-    <lastmod>2022-06-18T08:45:53+00:00</lastmod>
+    <lastmod>2022-09-16T02:52:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://tamaron.github.io/docfx_example/index.html</loc>
-    <lastmod>2022-06-18T08:45:53+00:00</lastmod>
+    <lastmod>2022-09-16T02:52:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://tamaron.github.io/docfx_example/manual/coniunctis.html</loc>
-    <lastmod>2022-06-18T08:45:53+00:00</lastmod>
+    <lastmod>2022-09-16T02:52:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://tamaron.github.io/docfx_example/manual/etiam.html</loc>
-    <lastmod>2022-06-18T08:45:53+00:00</lastmod>
+    <lastmod>2022-09-16T02:52:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
