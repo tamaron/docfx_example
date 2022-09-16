@@ -2,17 +2,18 @@ import os
 import glob
 from xml.etree.ElementInclude import include
 
-def find_all_files(directory):
-    for root, dirs, files in os.walk(directory):
-        yield root
-        for file in files:
-            yield os.path.join(root, file)
+# def find_all_files(directory):
+#     for root, dirs, files in os.walk(directory):
+#         yield root
+#         for file in files:
+#             yield os.path.join(root, file)
 
-for file in find_all_files(os.getcwd()):
-    print(file)
+# for file in find_all_files(os.getcwd()):
+#     print(file)
 
-
+print(os.getcwd())
 os.chdir('_site/api')
+os.getcwd()
 
 files = glob.glob("./*")
 for fileName in files:
