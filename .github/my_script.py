@@ -2,8 +2,7 @@ import os
 import glob
 from xml.etree.ElementInclude import include
 
-os.chdir('../')
-os.chdir('_site/api')
+os.chdir('api')
 path = os.getcwd()
 
 files = glob.glob("./*")
