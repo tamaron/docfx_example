@@ -28,7 +28,7 @@ jobs:
         uses: actions/setup-python@v4
         
       - name: Fix Assembly  
-        run: python my_script.py
+        run: python .github/my_script.py
 
       # Upload the generated documentation
       - name: Upload site artifact
