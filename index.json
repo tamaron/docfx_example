@@ -21,8 +21,8 @@
   },
   "index.html": {
     "href": "index.html",
-    "title": "docfx_example | Example Unity documentation",
-    "keywords": "docfx_example"
+    "title": "| Example Unity documentation",
+    "keywords": "Repository for DocFX Build Testing"
   },
   "manual/coniunctis.html": {
     "href": "manual/coniunctis.html",

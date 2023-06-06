@@ -28,7 +28,7 @@
       "output": {
         ".html": {
           "relative_path": "api/SampleNamespace.TypeA.SampleScriptA.html",
-          "hash": "YUrAG9Z+olPOy3aSdT6nUDbzFCHqt1mK/E64y6dQFnI="
+          "hash": "70bvMKbetuAcO6mZIU2Ht6NjfSNIVl7t+FMkK/3G2uY="
         }
       },
       "is_incremental": false,
@@ -52,7 +52,7 @@
       "output": {
         ".html": {
           "relative_path": "api/SampleNamespace.TypeB.SampleScriptB.html",
-          "hash": "+uKJ/hqFSAIwiDUbTtiKCWhZKJ4KmiasoB0CG9IOpDM="
+          "hash": "H1H+nQuunD1l1rVJWVHK4kcnPx/dncdr0kwa1PPkMPE="
         }
       },
       "is_incremental": false,
@@ -88,7 +88,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "RWFa6sPFm2b5GYV3lOZgVHJ+6jA9CRDmb8vHAd29OCU="
+          "hash": "uGCEGEtQkGibReeGEq5yG9H5gmSGJ/dkYt8vj2EE2Ew="
         }
       },
       "is_incremental": false,
